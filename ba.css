@@ -1,0 +1,50 @@
+#in{
+    margin: auto;
+    width: 25%;
+    padding: 20px;
+    background-color: aqua;
+    border-radius: 5px;
+}
+#Is{
+    size: 20px;
+    text-align: center;
+}
+#box1{
+    margin-left: 1%;
+    margin-right: 1%;
+    width: 450px;
+}
+#no{
+    margin-left: 1%;
+    margin-right: 1%;
+    width: 455px;
+}
+#DateInput{
+    margin-left: 1%;
+    margin-right: 1%;
+    width: 450px;
+}
+table, td, th {
+    border: 1px solid black;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td {
+    text-align: center;
+  }
+#add{
+
+    text-align: center;
+
+}
+button{
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    margin-top: 10px;
+    background-color: rgb(189, 137, 224);
+}
